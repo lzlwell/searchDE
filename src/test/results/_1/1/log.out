@@ -1,0 +1,50 @@
+LAMMPS (30 Aug 2012)
+Reading data file ...
+  orthogonal box = (0 0 0) to (17.1317 10 50)
+  1 by 1 by 1 MPI processor grid
+  300 atoms
+120 atoms in group fixPosH
+119 atoms in group fixPosL
+61 atoms in group optPos
+Setting up minimization ...
+Memory usage per processor = 3.26726 Mbytes
+Step PotEng TotEng Lx Ly Lz 
+       0   -921.55064   -921.55064      17.1317           10           50 
+       1   -1053.0382   -1053.0382      17.1317           10           50 
+       2   -1103.8567   -1103.8567      17.1317           10           50 
+       3   -1133.5194   -1133.5194      17.1317           10           50 
+       4   -1164.5506   -1164.5506      17.1317           10           50 
+       5   -1177.1083   -1177.1083      17.1317           10           50 
+       6   -1185.4349   -1185.4349      17.1317           10           50 
+       7    -1192.514    -1192.514      17.1317           10           50 
+       8   -1193.6363   -1193.6363      17.1317           10           50 
+Loop time of 0.31936 on 1 procs for 8 steps with 300 atoms
+
+Minimization stats:
+  Stopping criterion = max force evaluations
+  Energy initial, next-to-last, final = 
+        -921.550639247     -1192.51396786     -1193.63627431
+  Force two-norm initial, final = 1318.66 25.049
+  Force max component initial, final = 694.222 13.7111
+  Final line search alpha, max atom move = 0.0032363 0.0443732
+  Iterations, force evaluations = 8 10
+
+Pair  time (%) = 0.138805 (43.4635)
+Neigh time (%) = 0.177393 (55.5463)
+Comm  time (%) = 0.00126243 (0.395299)
+Outpt time (%) = 0.000106812 (0.0334455)
+Other time (%) = 0.00179315 (0.561481)
+
+Nlocal:    300 ave 300 max 300 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    2409 ave 2409 max 2409 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+FullNghs:  45804 ave 45804 max 45804 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 45804
+Ave neighs/atom = 152.68
+Neighbor list builds = 8
+Dangerous builds = 8

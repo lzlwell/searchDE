@@ -1,0 +1,915 @@
+Starting Particle Swarm Optimization
+Generating new structures...
+End generating new srtuctures.
+Starting local optimization for initial structures
+The energy of the 0th structure is: -3020.658766
+The energy of the 3th structure is: -3020.755657
+The energy of the 5th structure is: -3021.217766
+The energy of the 7th structure is: -3039.202336
+The energy of the 4th structure is: -3017.679469
+The energy of the 9th structure is: -3021.706216
+The energy of the 1th structure is: -3016.583914
+The energy of the 2th structure is: -3024.957236
+The energy of the 6th structure is: -3001.825018
+The energy of the 8th structure is: -3002.532372
+The energy of the 10th structure is: -3001.217871
+The energy of the 11th structure is: -2981.058467
+The energy of the 12th structure is: -3039.783673
+The energy of the 14th structure is: -3033.193296
+The energy of the 13th structure is: -3005.740649
+End local optimization.
+After DE selection
+particle  energy
+0  -3039.783673
+1  -3039.202336
+2  -3033.193296
+3  -3024.957236
+4  -3021.706216
+5  -3021.217766
+6  -3020.755657
+7  -3020.658766
+8  -3017.679469
+9  -3016.583914
+10  -3005.740649
+11  -3002.532372
+12  -3001.825018
+13  -3001.217871
+14  -2981.058467
+PSO has selected best for the _1 generation: -3039.783673
+Starting PSO main loop...
+
+generation 0
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 1th structure is: -2996.063522
+The energy of the 0th structure is: -3021.118708
+The energy of the 4th structure is: -3000.126291
+The energy of the 8th structure is: -3008.053942
+The energy of the 7th structure is: -3024.371870
+The energy of the 2th structure is: -3036.094270
+The energy of the 3th structure is: -3011.643422
+The energy of the 6th structure is: -3037.511320
+The energy of the 9th structure is: -3007.537576
+The energy of the 10th structure is: -3016.299217
+The energy of the 5th structure is: -3016.834236
+The energy of the 14th structure is: -3031.894282
+The energy of the 11th structure is: -3027.356169
+The energy of the 12th structure is: -2970.713336
+The energy of the 13th structure is: -3015.467299
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3039.783673
+1  -3039.202336
+2  -3036.094270
+3  -3024.957236
+4  -3021.706216
+5  -3021.217766
+6  -3037.511320
+7  -3024.371870
+8  -3017.679469
+9  -3016.583914
+10  -3016.299217
+11  -3027.356169
+12  -3001.825018
+13  -3015.467299
+14  -3031.894282
+PSO has selected the gbest for the 0 generation: -3039.783673
+
+generation 1
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 1th structure is: -3020.566790
+The energy of the 2th structure is: -3020.149276
+The energy of the 3th structure is: -3020.086539
+The energy of the 4th structure is: -3014.905425
+The energy of the 6th structure is: -3027.120258
+The energy of the 12th structure is: -3025.616237
+The energy of the 0th structure is: -3019.302082
+The energy of the 7th structure is: -3001.284242
+The energy of the 9th structure is: -3038.742886
+The energy of the 10th structure is: -3024.106155
+The energy of the 14th structure is: -3014.004058
+The energy of the 8th structure is: -3013.833027
+The energy of the 5th structure is: -3026.242701
+The energy of the 11th structure is: -2988.847892
+The energy of the 13th structure is: -3028.525622
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3037.511320
+1  -3036.094270
+2  -3031.894282
+3  -3027.356169
+4  -3024.371870
+5  -3039.783673
+6  -3027.120258
+7  -3016.299217
+8  -3015.467299
+9  -3038.742886
+10  -3024.106155
+11  -3016.583914
+12  -3025.616237
+13  -3039.202336
+14  -3014.004058
+PSO has selected the gbest for the 1 generation: -3039.783673
+
+generation 2
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 0th structure is: -3042.561990
+The energy of the 4th structure is: -3025.703638
+The energy of the 1th structure is: -3032.630518
+The energy of the 2th structure is: -3021.399120
+The energy of the 7th structure is: -3028.042999
+The energy of the 8th structure is: -3008.078474
+The energy of the 5th structure is: -3034.236225
+The energy of the 6th structure is: -3023.055432
+The energy of the 9th structure is: -3024.794732
+The energy of the 12th structure is: -3032.686454
+The energy of the 3th structure is: -3010.521418
+The energy of the 14th structure is: -3024.977805
+The energy of the 11th structure is: -3020.410222
+The energy of the 10th structure is: -3040.100203
+The energy of the 13th structure is: -3035.070958
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3042.561990
+1  -3039.202336
+2  -3027.120258
+3  -3039.783673
+4  -3025.703638
+5  -3034.236225
+6  -3036.094270
+7  -3031.894282
+8  -3027.356169
+9  -3037.511320
+10  -3040.100203
+11  -3020.410222
+12  -3032.686454
+13  -3035.070958
+14  -3024.977805
+PSO has selected the gbest for the 2 generation: -3042.561990
+
+generation 3
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 1th structure is: -3020.360218
+The energy of the 10th structure is: -3021.916271
+The energy of the 11th structure is: -3022.945475
+The energy of the 3th structure is: -3034.641297
+The energy of the 2th structure is: -3028.998606
+The energy of the 8th structure is: -3041.512003
+The energy of the 0th structure is: -3030.341251
+The energy of the 5th structure is: -3021.829300
+The energy of the 6th structure is: -3026.991949
+The energy of the 9th structure is: -3038.455994
+The energy of the 7th structure is: -3024.537694
+The energy of the 12th structure is: -3029.122279
+The energy of the 13th structure is: -3013.085879
+The energy of the 14th structure is: -3020.688000
+The energy of the 4th structure is: -3023.967130
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3042.561990
+1  -3040.100203
+2  -3035.070958
+3  -3034.641297
+4  -3032.686454
+5  -3039.202336
+6  -3031.894282
+7  -3025.703638
+8  -3041.512003
+9  -3038.455994
+10  -3036.094270
+11  -3027.120258
+12  -3029.122279
+13  -3039.783673
+14  -3027.356169
+PSO has selected the gbest for the 3 generation: -3042.561990
+
+generation 4
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 0th structure is: -3032.081538
+The energy of the 2th structure is: -3033.803703
+The energy of the 5th structure is: -3019.362730
+The energy of the 3th structure is: -3007.909694
+The energy of the 6th structure is: -3011.524249
+The energy of the 4th structure is: -3016.914362
+The energy of the 8th structure is: -3018.108200
+The energy of the 7th structure is: -3006.353847
+The energy of the 9th structure is: -3018.829220
+The energy of the 10th structure is: -3001.113928
+The energy of the 13th structure is: -3035.781535
+The energy of the 12th structure is: -3020.020891
+The energy of the 11th structure is: -3019.724068
+The energy of the 14th structure is: -3036.113209
+The energy of the 1th structure is: -3031.319844
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3041.512003
+1  -3038.455994
+2  -3034.641297
+3  -3042.561990
+4  -3029.122279
+5  -3035.070958
+6  -3031.894282
+7  -3025.703638
+8  -3032.686454
+9  -3027.120258
+10  -3036.094270
+11  -3039.202336
+12  -3027.356169
+13  -3040.100203
+14  -3039.783673
+PSO has selected the gbest for the 4 generation: -3042.561990
+
+generation 5
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 0th structure is: -3030.501300
+The energy of the 3th structure is: -3020.273072
+The energy of the 5th structure is: -3042.538438
+The energy of the 4th structure is: -3008.054367
+The energy of the 13th structure is: -3019.788822
+The energy of the 9th structure is: -3016.758642
+The energy of the 1th structure is: -3017.533271
+The energy of the 2th structure is: -3020.848907
+The energy of the 6th structure is: -3038.377013
+The energy of the 7th structure is: -3046.632962
+The energy of the 8th structure is: -3025.825112
+The energy of the 10th structure is: -3020.856382
+The energy of the 14th structure is: -3027.977336
+The energy of the 12th structure is: -3023.248151
+The energy of the 11th structure is: -3041.339043
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3039.783673
+1  -3040.100203
+2  -3034.641297
+3  -3041.512003
+4  -3038.455994
+5  -3042.538438
+6  -3039.202336
+7  -3046.632962
+8  -3027.120258
+9  -3032.686454
+10  -3029.122279
+11  -3041.339043
+12  -3042.561990
+13  -3025.703638
+14  -3036.094270
+PSO has selected the gbest for the 5 generation: -3046.632962
+
+generation 6
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 0th structure is: -3028.701363
+The energy of the 1th structure is: -3009.803132
+The energy of the 3th structure is: -3008.432991
+The energy of the 4th structure is: -3028.128733
+The energy of the 6th structure is: -3012.996055
+The energy of the 5th structure is: -3010.090518
+The energy of the 8th structure is: -3023.854641
+The energy of the 11th structure is: -3014.371479
+The energy of the 13th structure is: -3004.032580
+The energy of the 7th structure is: -3041.809173
+The energy of the 9th structure is: -3017.862537
+The energy of the 12th structure is: -3013.179722
+The energy of the 2th structure is: -2997.840561
+The energy of the 14th structure is: -3018.077115
+The energy of the 10th structure is: -3014.258612
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3046.632962
+1  -3042.538438
+2  -3041.339043
+3  -3039.202336
+4  -3039.783673
+5  -3036.094270
+6  -3027.120258
+7  -3042.561990
+8  -3029.122279
+9  -3034.641297
+10  -3041.512003
+11  -3025.703638
+12  -3040.100203
+13  -3032.686454
+14  -3038.455994
+PSO has selected the gbest for the 6 generation: -3046.632962
+
+generation 7
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 0th structure is: -3036.761834
+The energy of the 1th structure is: -3016.645195
+The energy of the 6th structure is: -3011.864208
+The energy of the 2th structure is: -3021.177820
+The energy of the 12th structure is: -3005.510854
+The energy of the 3th structure is: -3017.788389
+The energy of the 4th structure is: -3016.157883
+The energy of the 8th structure is: -3020.660140
+The energy of the 11th structure is: -2999.829870
+The energy of the 14th structure is: -3032.325503
+The energy of the 5th structure is: -3019.172189
+The energy of the 7th structure is: -3017.994757
+The energy of the 9th structure is: -3049.225467
+The energy of the 10th structure is: -3029.488414
+The energy of the 13th structure is: -3013.295899
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3042.561990
+1  -3046.632962
+2  -3039.783673
+3  -3029.122279
+4  -3038.455994
+5  -3034.641297
+6  -3025.703638
+7  -3041.512003
+8  -3040.100203
+9  -3049.225467
+10  -3036.094270
+11  -3042.538438
+12  -3039.202336
+13  -3032.686454
+14  -3041.339043
+PSO has selected the gbest for the 7 generation: -3049.225467
+
+generation 8
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 2th structure is: -3012.017608
+The energy of the 0th structure is: -3032.518427
+The energy of the 1th structure is: -3016.440657
+The energy of the 13th structure is: -3027.254230
+The energy of the 5th structure is: -3021.589765
+The energy of the 9th structure is: -3017.967422
+The energy of the 6th structure is: -3018.493347
+The energy of the 10th structure is: -3020.958125
+The energy of the 3th structure is: -3037.738358
+The energy of the 4th structure is: -3028.861804
+The energy of the 7th structure is: -3023.118062
+The energy of the 8th structure is: -3011.566390
+The energy of the 11th structure is: -3020.332297
+The energy of the 14th structure is: -3031.960562
+The energy of the 12th structure is: -3025.505602
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3049.225467
+1  -3042.561990
+2  -3041.339043
+3  -3037.738358
+4  -3039.783673
+5  -3040.100203
+6  -3034.641297
+7  -3041.512003
+8  -3029.122279
+9  -3046.632962
+10  -3038.455994
+11  -3032.686454
+12  -3025.703638
+13  -3039.202336
+14  -3042.538438
+PSO has selected the gbest for the 8 generation: -3049.225467
+
+generation 9
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 1th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 2th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 3th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 4th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 5th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 6th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 7th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 8th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 9th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 10th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 11th PSO unit
+New structure generated to substitute the one PSO generated!
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 12th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 13th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Constraining and checking distances for the 14th PSO unit
+Changing directory to start local optimization!
+Done starting local optimization! Return to the main directory!
+Monitoring if parallelization has done...
+The energy of the 1th structure is: -3029.782677
+The energy of the 3th structure is: -3028.732595
+The energy of the 0th structure is: -3022.817790
+The energy of the 2th structure is: -3024.366741
+The energy of the 4th structure is: -2994.939578
+The energy of the 7th structure is: -3039.635553
+The energy of the 11th structure is: -3025.497680
+The energy of the 13th structure is: -3002.829814
+The energy of the 6th structure is: -3009.652555
+The energy of the 8th structure is: -3032.755291
+The energy of the 9th structure is: -3027.820530
+The energy of the 10th structure is: -3030.987542
+The energy of the 12th structure is: -2996.544035
+The energy of the 14th structure is: -3028.787626
+The energy of the 5th structure is: -2994.565482
+Done parallel local optimization! Return to main directory.
+After DE selection
+particle  energy
+0  -3037.738358
+1  -3049.225467
+2  -3042.538438
+3  -3039.783673
+4  -3039.202336
+5  -3025.703638
+6  -3041.512003
+7  -3040.100203
+8  -3038.455994
+9  -3032.686454
+10  -3034.641297
+11  -3046.632962
+12  -3042.561990
+13  -3041.339043
+14  -3029.122279
+PSO has selected the gbest for the 9 generation: -3049.225467
+Finishing Particle Swarm Optimization!

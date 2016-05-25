@@ -1,0 +1,52 @@
+LAMMPS (30 Aug 2012)
+Reading data file ...
+  orthogonal box = (0 0 0) to (17.1317 10 50)
+  1 by 1 by 1 MPI processor grid
+  300 atoms
+120 atoms in group fixPosH
+119 atoms in group fixPosL
+61 atoms in group optPos
+Setting up minimization ...
+Memory usage per processor = 3.2685 Mbytes
+Step PotEng TotEng Lx Ly Lz 
+       0   -715.89511   -715.89511      17.1317           10           50 
+       1   -977.26873   -977.26873      17.1317           10           50 
+       2   -1052.7221   -1052.7221      17.1317           10           50 
+       3   -1092.7067   -1092.7067      17.1317           10           50 
+       4   -1110.7179   -1110.7179      17.1317           10           50 
+       5   -1125.7338   -1125.7338      17.1317           10           50 
+       6   -1143.5452   -1143.5452      17.1317           10           50 
+       7   -1150.8366   -1150.8366      17.1317           10           50 
+       8   -1155.6824   -1155.6824      17.1317           10           50 
+       9   -1160.0197   -1160.0197      17.1317           10           50 
+      10   -1162.5696   -1162.5696      17.1317           10           50 
+Loop time of 0.37295 on 1 procs for 10 steps with 300 atoms
+
+Minimization stats:
+  Stopping criterion = max force evaluations
+  Energy initial, next-to-last, final = 
+        -715.895113239      -1160.0196743     -1162.56958692
+  Force two-norm initial, final = 1857.39 37.1335
+  Force max component initial, final = 935.287 19.7686
+  Final line search alpha, max atom move = 0.00619286 0.122424
+  Iterations, force evaluations = 10 10
+
+Pair  time (%) = 0.137694 (36.9201)
+Neigh time (%) = 0.231634 (62.1087)
+Comm  time (%) = 0.00149941 (0.402042)
+Outpt time (%) = 0.000158072 (0.0423841)
+Other time (%) = 0.00196457 (0.526765)
+
+Nlocal:    300 ave 300 max 300 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    2499 ave 2499 max 2499 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+FullNghs:  45056 ave 45056 max 45056 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 45056
+Ave neighs/atom = 150.187
+Neighbor list builds = 10
+Dangerous builds = 10

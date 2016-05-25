@@ -1,0 +1,361 @@
+Starting Particle Swarm Optimization
+Generating new structures...
+The energy of the 0th structure is: -1166.861704
+The energy of the 1th structure is: -1193.636274
+The energy of the 2th structure is: -1135.149120
+The energy of the 3th structure is: -1203.735426
+The energy of the 4th structure is: -1191.009189
+The energy of the 5th structure is: -1138.259354
+The energy of the 6th structure is: -1193.918292
+The energy of the 7th structure is: -1148.761235
+The energy of the 8th structure is: -1197.304448
+The energy of the 9th structure is: -1162.569587
+End generating new srtuctures.
+After DE selection
+particle  energy
+0  -1203.735426
+1  -1197.304448
+2  -1193.918292
+3  -1193.636274
+4  -1191.009189
+5  -1166.861704
+6  -1162.569587
+7  -1148.761235
+8  -1138.259354
+9  -1135.149120
+PSO has selected best for the _1 generation: -1203.735426
+Starting PSO main loop...
+
+generation 0
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 0th structure is: -1186.057361
+Constraining and checking distances for the 1th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 1th structure is: -1159.987342
+Constraining and checking distances for the 2th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 2th structure is: -1165.521643
+Constraining and checking distances for the 3th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 3th structure is: -1053.668540
+Constraining and checking distances for the 4th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 4th structure is: -865.059808
+Constraining and checking distances for the 5th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 5th structure is: -1132.459268
+Constraining and checking distances for the 6th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 6th structure is: -1124.728020
+Constraining and checking distances for the 7th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 7th structure is: -1180.935701
+Constraining and checking distances for the 8th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 8th structure is: -1122.661320
+Constraining and checking distances for the 9th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 9th structure is: -1192.773585
+After DE selection
+particle  energy
+0  -1203.735426
+1  -1197.304448
+2  -1193.918292
+3  -1193.636274
+4  -1191.009189
+5  -1166.861704
+6  -1162.569587
+7  -1180.935701
+8  -1138.259354
+9  -1192.773585
+PSO has selected the gbest for the 0 generation: -1203.735426
+
+generation 1
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 0th structure is: -1137.494869
+Constraining and checking distances for the 1th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 1th structure is: -1162.328446
+Constraining and checking distances for the 2th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 2th structure is: -1145.641081
+Constraining and checking distances for the 3th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 3th structure is: -1136.515361
+Constraining and checking distances for the 4th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 4th structure is: -1168.314767
+Constraining and checking distances for the 5th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 5th structure is: -1149.522580
+Constraining and checking distances for the 6th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 6th structure is: -1169.437458
+Constraining and checking distances for the 7th PSO unit
+New structure generated to substitute the one PSO generated!
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 7th structure is: -1194.264942
+Constraining and checking distances for the 8th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 8th structure is: -1154.864348
+Constraining and checking distances for the 9th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 9th structure is: -1138.076714
+After DE selection
+particle  energy
+0  -1192.773585
+1  -1203.735426
+2  -1180.935701
+3  -1193.918292
+4  -1197.304448
+5  -1166.861704
+6  -1169.437458
+7  -1194.264942
+8  -1193.636274
+9  -1191.009189
+PSO has selected the gbest for the 1 generation: -1203.735426
+
+generation 2
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 0th structure is: -1191.488344
+Constraining and checking distances for the 1th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 1th structure is: -1110.448364
+Constraining and checking distances for the 2th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 2th structure is: -1219.938218
+Constraining and checking distances for the 3th PSO unit
+New structure generated to substitute the one PSO generated!
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 3th structure is: -1176.806497
+Constraining and checking distances for the 4th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 4th structure is: -1179.614503
+Constraining and checking distances for the 5th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 5th structure is: -1159.012212
+Constraining and checking distances for the 6th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 6th structure is: -1122.805948
+Constraining and checking distances for the 7th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 7th structure is: -1195.990994
+Constraining and checking distances for the 8th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 8th structure is: -1143.020594
+Constraining and checking distances for the 9th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 9th structure is: -1181.727847
+After DE selection
+particle  energy
+0  -1194.264942
+1  -1169.437458
+2  -1219.938218
+3  -1203.735426
+4  -1193.636274
+5  -1166.861704
+6  -1180.935701
+7  -1195.990994
+8  -1192.773585
+9  -1193.918292
+PSO has selected the gbest for the 2 generation: -1219.938218
+
+generation 3
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 0th structure is: -1190.744228
+Constraining and checking distances for the 1th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 1th structure is: -1188.875286
+Constraining and checking distances for the 2th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 2th structure is: -1185.518517
+Constraining and checking distances for the 3th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 3th structure is: -1153.939033
+Constraining and checking distances for the 4th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 4th structure is: -1173.242891
+Constraining and checking distances for the 5th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 5th structure is: -1165.335951
+Constraining and checking distances for the 6th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 6th structure is: -1185.053276
+Constraining and checking distances for the 7th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 7th structure is: -1170.724212
+Constraining and checking distances for the 8th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 8th structure is: -1094.697613
+Constraining and checking distances for the 9th PSO unit
+New structure generated to substitute the one PSO generated!
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 9th structure is: -1167.652970
+After DE selection
+particle  energy
+0  -1219.938218
+1  -1195.990994
+2  -1194.264942
+3  -1193.918292
+4  -1193.636274
+5  -1203.735426
+6  -1185.053276
+7  -1192.773585
+8  -1180.935701
+9  -1169.437458
+PSO has selected the gbest for the 3 generation: -1219.938218
+
+generation 4
+Done PSO!
+Constraining and checking distances for the 0th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 0th structure is: -1159.274043
+Constraining and checking distances for the 1th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 1th structure is: -1167.104797
+Constraining and checking distances for the 2th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 2th structure is: -1122.752539
+Constraining and checking distances for the 3th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 3th structure is: -1142.799311
+Constraining and checking distances for the 4th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 4th structure is: -1159.334557
+Constraining and checking distances for the 5th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 5th structure is: -1063.658944
+Constraining and checking distances for the 6th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 6th structure is: -1187.626739
+Constraining and checking distances for the 7th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 7th structure is: -1189.897195
+Constraining and checking distances for the 8th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 8th structure is: -1151.926250
+Constraining and checking distances for the 9th PSO unit
+End constraining and checking
+Changing directory to start local optimization!
+Done local optimization! Return to main directory.
+The energy of the 9th structure is: -1206.703149
+After DE selection
+particle  energy
+0  -1219.938218
+1  -1195.990994
+2  -1194.264942
+3  -1185.053276
+4  -1193.636274
+5  -1192.773585
+6  -1187.626739
+7  -1203.735426
+8  -1193.918292
+9  -1206.703149
+PSO has selected the gbest for the 4 generation: -1219.938218
+Finishing Particle Swarm Optimization!

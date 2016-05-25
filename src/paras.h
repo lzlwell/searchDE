@@ -1,0 +1,65 @@
+#ifndef _PARAS_H_
+#define _PARAS_H_
+
+struct parameter
+{
+	int interface;
+	int adaptive;
+	int run;
+	int rSeed;
+	int nType;
+	char **type;
+	double *charge;
+	int nFixH;
+	int nFixL;
+	int nBuffH;
+	int nBuffL;
+	int nOpt;
+	double buffBot;
+	double buffTop;
+	double optBot;
+	double optTop;
+	double hMin;
+	double hMax;
+	double hMix;
+	double distMin;
+	int algoGlob;
+	int algoLoc;
+	int size;
+	int nGens;
+	double vmBuffH;
+	double vmBuffL;
+	double vmOpt;
+	double vmOptH;
+	int wChgLmp;
+	double psoProp;
+	int rmDup;
+	double devM;
+	double eDiff;
+	int vaspNSW;
+	int keepOri;
+	int vaspGens;
+	int lammpsGens;
+	int autoInitPot;
+	int nFit;
+	int rigid;
+	double transAM;
+	double transBM;
+	double vmTransA;
+	double vmTransB;
+	int transAB;
+	int dim2;
+	double dim2y;
+	int nonDim2type;
+	int inCD;
+	int symmetry;
+	double symMix;
+	int nRmFile;
+	char **rmFile;
+	int dvdOpt;
+	int dvdA;
+	double diffEvolF;
+	double diffEvolCR;
+};
+
+#endif

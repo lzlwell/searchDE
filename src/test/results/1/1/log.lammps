@@ -1,0 +1,84 @@
+LAMMPS (30 Aug 2012)
+units		metal
+boundary	p p p
+atom_style	atomic
+read_data	struct.lammps
+  orthogonal box = (0 0 0) to (17.1317 10 50)
+  1 by 1 by 1 MPI processor grid
+  300 atoms
+
+pair_style      airebo 3.0
+pair_coeff      * * CH.airebo C H
+
+mass	1	12.0
+mass	2	1.0
+
+group		fixPosH id <> 1 120
+120 atoms in group fixPosH
+group		fixPosL id <> 121 239
+119 atoms in group fixPosL
+group		optPos  id <> 240 1000
+61 atoms in group optPos
+fix             0       fixPosH setforce NULL 0.0 NULL
+fix             1       fixPosH aveforce 0.0 0.0 0.0
+fix		2	fixPosL setforce 0.0 0.0 0.0
+fix 		3	optPos	setforce NULL 0.0 NULL
+
+neighbor        0.2 bin
+neigh_modify	every 1 delay 0 check yes
+
+timestep	0.002
+thermo 		1
+thermo_style    custom step  pe etotal lx ly lz 
+
+dump		1 all xyz 10000000 dump.atom
+dump_modify	1 format "%d  %20.15g  %20.15g  %20.15g" 
+#fix 		8 all box/relax iso 0.0 
+min_style	cg
+minimize	1.0e-12 1.0e-12 10 10
+Memory usage per processor = 3.26712 Mbytes
+Step PotEng TotEng Lx Ly Lz 
+       0   -834.76395   -834.76395      17.1317           10           50 
+       1   -996.42658   -996.42658      17.1317           10           50 
+       2   -1045.3544   -1045.3544      17.1317           10           50 
+       3   -1077.8624   -1077.8624      17.1317           10           50 
+       4   -1113.5921   -1113.5921      17.1317           10           50 
+       5   -1134.5918   -1134.5918      17.1317           10           50 
+       6   -1147.1069   -1147.1069      17.1317           10           50 
+       7   -1154.6658   -1154.6658      17.1317           10           50 
+       8   -1158.8944   -1158.8944      17.1317           10           50 
+       9    -1160.792    -1160.792      17.1317           10           50 
+      10   -1162.3284   -1162.3284      17.1317           10           50 
+Loop time of 0.369131 on 1 procs for 10 steps with 300 atoms
+
+Minimization stats:
+  Stopping criterion = max force evaluations
+  Energy initial, next-to-last, final = 
+        -834.763947702     -1160.79201035     -1162.32844571
+  Force two-norm initial, final = 2076.42 18.9799
+  Force max component initial, final = 1475.33 15.6842
+  Final line search alpha, max atom move = 0.00859895 0.134868
+  Iterations, force evaluations = 10 10
+
+Pair  time (%) = 0.133049 (36.0437)
+Neigh time (%) = 0.232599 (63.0126)
+Comm  time (%) = 0.00148106 (0.401228)
+Outpt time (%) = 0.000137568 (0.0372679)
+Other time (%) = 0.00186467 (0.505152)
+
+Nlocal:    300 ave 300 max 300 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    2504 ave 2504 max 2504 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+FullNghs:  45060 ave 45060 max 45060 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 45060
+Ave neighs/atom = 150.2
+Neighbor list builds = 10
+Dangerous builds = 10
+min_modify line quadratic
+
+clear

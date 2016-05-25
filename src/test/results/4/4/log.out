@@ -1,0 +1,51 @@
+LAMMPS (30 Aug 2012)
+Reading data file ...
+  orthogonal box = (0 0 0) to (17.1317 10 50)
+  1 by 1 by 1 MPI processor grid
+  300 atoms
+120 atoms in group fixPosH
+119 atoms in group fixPosL
+61 atoms in group optPos
+Setting up minimization ...
+Memory usage per processor = 3.26671 Mbytes
+Step PotEng TotEng Lx Ly Lz 
+       0   -705.80965   -705.80965      17.1317           10           50 
+       1   -947.68419   -947.68419      17.1317           10           50 
+       2   -1048.9375   -1048.9375      17.1317           10           50 
+       3   -1095.2168   -1095.2168      17.1317           10           50 
+       4   -1120.6166   -1120.6166      17.1317           10           50 
+       5   -1135.2768   -1135.2768      17.1317           10           50 
+       6   -1146.1364   -1146.1364      17.1317           10           50 
+       7   -1151.6121   -1151.6121      17.1317           10           50 
+       8   -1157.1267   -1157.1267      17.1317           10           50 
+       9   -1159.3346   -1159.3346      17.1317           10           50 
+Loop time of 0.355076 on 1 procs for 9 steps with 300 atoms
+
+Minimization stats:
+  Stopping criterion = max force evaluations
+  Energy initial, next-to-last, final = 
+        -705.809648835      -1157.1266755     -1159.33455701
+  Force two-norm initial, final = 2741.33 43.7413
+  Force max component initial, final = 2040.47 18.0189
+  Final line search alpha, max atom move = 0.000858139 0.0154627
+  Iterations, force evaluations = 9 11
+
+Pair  time (%) = 0.149009 (41.9655)
+Neigh time (%) = 0.20261 (57.0611)
+Comm  time (%) = 0.00141001 (0.3971)
+Outpt time (%) = 0.00013566 (0.038206)
+Other time (%) = 0.00191069 (0.538107)
+
+Nlocal:    300 ave 300 max 300 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    2391 ave 2391 max 2391 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+FullNghs:  46116 ave 46116 max 46116 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 46116
+Ave neighs/atom = 153.72
+Neighbor list builds = 9
+Dangerous builds = 9

@@ -1,0 +1,50 @@
+LAMMPS (30 Aug 2012)
+Reading data file ...
+  orthogonal box = (0 0 0) to (17.1317 10 50)
+  1 by 1 by 1 MPI processor grid
+  300 atoms
+120 atoms in group fixPosH
+119 atoms in group fixPosL
+61 atoms in group optPos
+Setting up minimization ...
+Memory usage per processor = 3.26809 Mbytes
+Step PotEng TotEng Lx Ly Lz 
+       0   -1123.1881   -1123.1881      17.1317           10           50 
+       1    -1147.998    -1147.998      17.1317           10           50 
+       2   -1160.9876   -1160.9876      17.1317           10           50 
+       3   -1163.3459   -1163.3459      17.1317           10           50 
+       4   -1173.8247   -1173.8247      17.1317           10           50 
+       5   -1179.6384   -1179.6384      17.1317           10           50 
+       6    -1184.365    -1184.365      17.1317           10           50 
+       7   -1188.0189   -1188.0189      17.1317           10           50 
+       8   -1191.0092   -1191.0092      17.1317           10           50 
+Loop time of 0.296444 on 1 procs for 8 steps with 300 atoms
+
+Minimization stats:
+  Stopping criterion = max force evaluations
+  Energy initial, next-to-last, final = 
+        -1123.18812536     -1188.01891098     -1191.00918893
+  Force two-norm initial, final = 193.955 16.7898
+  Force max component initial, final = 91.8827 7.79161
+  Final line search alpha, max atom move = 0.00841642 0.0655775
+  Iterations, force evaluations = 8 10
+
+Pair  time (%) = 0.140322 (47.335)
+Neigh time (%) = 0.153085 (51.6405)
+Comm  time (%) = 0.00114965 (0.387815)
+Outpt time (%) = 0.000105858 (0.0357092)
+Other time (%) = 0.0017817 (0.601025)
+
+Nlocal:    300 ave 300 max 300 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:    2382 ave 2382 max 2382 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:    0 ave 0 max 0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+FullNghs:  46642 ave 46642 max 46642 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 46642
+Ave neighs/atom = 155.473
+Neighbor list builds = 7
+Dangerous builds = 6
